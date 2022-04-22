@@ -59,7 +59,7 @@ After importing our python modules, reading the two csv files and merging the tw
   <img src="https://github.com/lawnshogan/PyBer_Analysis/blob/main/Resources/Deliverable%202%20Code.png" width="700"/>
 </p>
 
-### **The results...**
+## **The results...**
 
 <p align="center">
   <img src="https://github.com/lawnshogan/PyBer_Analysis/blob/main/Resources/Formatted%20Table.png" width="700"/>
@@ -70,10 +70,7 @@ After importing our python modules, reading the two csv files and merging the tw
   <img src="https://github.com/lawnshogan/PyBer_Analysis/blob/main/Resources/PyBer_fare_summary.png" width="700"/>
 </p>
 
-### **Summary**
+## **Summary**
 
-This analysis was interesting but I also thought the results were somewhat predictable, which can happen in data science. When students try to cheat and change their scores, they are not giving themselves F grades - They are probably giving themselves A and B grades. 
-
-With this in mind, when we alter our data by taking out the 9th graders for a particular school, your overall passing scores will lower, because you are getting rid of the results of higher scores.
-
-The budget per district and per school size will be altered as well as the new data is accounted for and calculated.
+### **Three business recommendations to the CEO:**
+        1. 
