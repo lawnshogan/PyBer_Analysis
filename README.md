@@ -59,6 +59,20 @@ After importing our python modules, reading the two csv files and merging the tw
   <img src="https://github.com/lawnshogan/PyBer_Analysis/blob/main/Resources/Deliverable%202%20Code.png" width="700"/>
 </p>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### **The results...**
 
 <p align="center">
@@ -66,14 +80,6 @@ After importing our python modules, reading the two csv files and merging the tw
 </p>
 
 
-With this data now accounted for in our dataset, it's time to move onto the second deliverable and recalulate the following metrics:
-
-- The district summary
-- The school summary
-- The top 5 and bottom 5 performing schools, based on the overall passing rate
-- The average math score for each grade level from each school
-- The average reading score for each grade level from each school
-- The scores by school spending per student, by school size, and by school type
 
 ### **The District Summary**
 
@@ -90,32 +96,7 @@ With this data now accounted for in our dataset, it's time to move onto the seco
 
 ### **Top 5 / Bottom 5 Schools**
 
-<p align="center">
-  <img src="https://github.com/lawnshogan/School_District_Analysis/blob/main/Readme_Images/Deliverable%202%20-%20Top%20and%20Bottom%20Schools.png" width="700"/>
-</p>
 
-### **Average Math / Reading Scores per Grade Level**
-
-<p align="center">
-  <img src="https://github.com/lawnshogan/School_District_Analysis/blob/main/Readme_Images/Deliverable%202%20-%20New%20Math%20Scores.png" width="700"/>
-</p>
-
-<p align="center">
-  <img src="https://github.com/lawnshogan/School_District_Analysis/blob/main/Readme_Images/Deliverable%202%20-%20New%20Reading%20Scores.png" width="700"/>
-</p>
-
-
-### **School Spending per Student by School Size**
-
-<p align="center">
-  <img src="https://github.com/lawnshogan/School_District_Analysis/blob/main/Readme_Images/Deliverable%202%20-%20Average%20school%20spending%20by%20size.png" width="700"/>
-</p>
-
-### **School Spending per Student by School Type**
-
-<p align="center">
-  <img src="https://github.com/lawnshogan/School_District_Analysis/blob/main/Readme_Images/Deliverable%202%20-%20Average%20school%20spending%20by%20type.png" width="700"/>
-</p>
 
 
 ### **Results**
