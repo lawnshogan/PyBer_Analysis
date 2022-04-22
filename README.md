@@ -1,15 +1,13 @@
-# PyBer_Analysis
-
 <p align="center">
-    School District Analysis
+    Pyber Analysis
 </p>
 
 <p align="center">
-    Module 4 for Data Science Bootcamp - Python (Jupyter Notebook)
+    Module 5 for Data Science Bootcamp - Python (Matplotlib & Pandas)
 </p>
 
 <p align="center">
-    STUDY GROUP FOR MODULE 4 - Ryan Knauff, Cayli Swartz, Marshall Miley, Lora Leonida
+    STUDY GROUP FOR MODULE 5 - Ryan Knauff, Cayli Swartz, Marshall Miley, Lora Leonida
 </p>
 
 ##  **Project Overview**
