@@ -31,7 +31,7 @@ After inspecting the two csv files, it's important we come up with a list of ste
     2. Merge your DataFrames.
 
     3. Create a bubble chart that showcases the average fare versus the total number of rides with bubble size based on the total number of drivers for each city type, including urban, suburban, and rural.
-    
+
     4. Determine the mean, median, and mode for the following:
         - The total number of rides for each city type.
         - The average fares for each city type.
@@ -47,8 +47,16 @@ After inspecting the two csv files, it's important we come up with a list of ste
         - The percent of total rides.
         - The percent of total drivers.
 
+After importing our python modules, reading the two csv files and merging the two datasets together based on the "city" column, it was time to start Deliverable 1. Here is the code I used to create this Data Frame:
+
+### **Deliverable 1:**
 <p align="center">
-  <img src="https://github.com/lawnshogan/School_District_Analysis/blob/main/Readme_Images/Deliverable%201.png" width="700"/>
+  <img src="https://github.com/lawnshogan/PyBer_Analysis/blob/main/Resources/Deliverable%201%20Code.png" width="700"/>
+</p>
+
+### **Deliverable 2:**
+<p align="center">
+  <img src="https://github.com/lawnshogan/PyBer_Analysis/blob/main/Resources/Deliverable%202%20Code.png" width="700"/>
 </p>
 
 ### **The results...**
