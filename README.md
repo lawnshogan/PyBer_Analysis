@@ -73,4 +73,8 @@ After importing our python modules, reading the two csv files and merging the tw
 ## **Summary**
 
 ### **Three business recommendations to the CEO:**
-        1. 
+        1. As Urban areas are what seems to be generating the most profit, the data suggests we might be able to increase populatity in rural areas if the rides were not as expensive. 
+
+        2. To boost the total drivers in rural areas, we could incentivise drivers pick up in those areas by increasing their cut of the fare.
+
+        3. Because riders in Urban areas rely on Pyber to get around the city, we could potentially slightly raise prices in urban or suburban areas to make up for the lack of profit in rural areas.
