@@ -11,20 +11,40 @@
 </p>
 
 ##  **Project Overview**
-- The school board needs help with an analysis of data regarding their schools reading and math testing scores. We were provided two seperate csv files. The first contains data regarding the budget, size and type of schools in the district. The second displays data regarding the individual students like their name, gender, grade level, school and reading/math scores.
+- I've landed a new job at Pyber, a python based ride sharing app. Coming into my second week on the job, I am already tasked with analyzing rideshare data from January to early May 2019, and create visualizations for the CEO.
 
 <p align="center">
-     School District data and its purpose
+     Pyber data and its purpose
 </p>
 
     1. Why are we analyzing this data?
     2. What is the goal and possible outcomes?
     3. What pieces of data can help build toward and obtain our goal(s)?
 
-- Maria, the Chief Data Scientist for the city school district, is tasked with preparing all standarized test data for analysis, reporting, and presentation to provide insight for performance trends and patterns. The results of this analysis will help the school board create meaningful budgets for these schools. I better create an accurate analysis, while also keeping the utmost confidentiality of this data, as it contains information that is viewed as sensitive.
+- When starting this analysis, it's important to consider who your audience is. In this case, we are presenting to the CEO, who is a former data professional himself. This means that we need to document or analysis and be prepared for any questions he may have. 
 
 ## **Analysis**
-I was able to go through and create a full report by using python to read and write our data into an easy to read report from their csv's. It's important with our analysis to be flexible as of course some new information came to light, and our report needed to adjusted last minute to account for these changes.  It appears the 9th grade students were able to accesss records and altered their reading and math scores. It's important we find these 9th graders from Thomas High School and add NaN to their score so it is not counted in our analysis. This was done using the loc() method after importing the numpy library.
+After inspecting the two csv files, it's important we come up with a list of steps and deliverables. Following this will help us stay focused and avoid confusion, in addition to creating an outline that can be used when presenting your findings.
+
+    1. Import your data into a Pandas DataFrame.
+
+    2. Merge your DataFrames.
+
+    3. Create a bubble chart that showcases the average fare versus the total number of rides with bubble size based on the total number of drivers for each city type, including urban, suburban, and rural.
+    4. Determine the mean, median, and mode for the following:
+        - The total number of rides for each city type.
+        - The average fares for each city type.
+        - The total number of drivers for each city type.
+
+    5. Create box-and-whisker plots that visualize each of the following to determine if there are any outliers:
+        - The number of rides for each city type.
+        - The fares for each city type.
+        - The number of drivers for each city type.
+
+    6. Create a pie chart that visualizes each of the following data for each city type:
+        - The percent of total fares.
+        - The percent of total rides.
+        - The percent of total drivers.
 
 <p align="center">
   <img src="https://github.com/lawnshogan/School_District_Analysis/blob/main/Readme_Images/Deliverable%201.png" width="700"/>
